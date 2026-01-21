@@ -59,7 +59,7 @@ const Navbar = ({ cartCount }) => {
               placeholder="Search..."
               className="bg-boatDarkGray text-sm rounded-full pl-10 px-4 py-2 w-32 focus:w-64 transition-all duration-300 focus:outline-none focus:ring-1 focus:ring-boatRed placeholder-gray-400"
             />
-            <i className="fas fa-search absolute left-3 top-2 text-gray-400 text-sm"></i>
+            <i className="fas fa-search absolute left-3 top-2 text-gray-400 text-sm py-1"></i>
           </div>
           <button className="hover:text-boatRed transition-colors">
             <i className="fas fa-user"></i>
