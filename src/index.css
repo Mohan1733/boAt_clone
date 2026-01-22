@@ -1,9 +1,5 @@
 @import "tailwindcss";
 
 @theme {
-  --color-boatRed: #EB1C23;
-  --color-boatDark: #121212;
-  --color-boatGray: #f4f5f7;
-  --color-boatDarkGray: #292929;
   --font-sans: "Montserrat", sans-serif;
 }
